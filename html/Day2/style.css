@@ -1,0 +1,36 @@
+body{
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: azure;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.login -card {
+    background: white;
+    padding: 30px;
+    width: 300px;
+    border-radius: 8px;
+    box-shadow: 0 4px 10px rgba(red, green, blue, alpha);
+}
+label{
+    display: block;
+    margin-top: 15px;
+    font-weight: bold;
+}
+input{
+    
+}
+button{
+    margin-top: 20px;
+    width: 100%;
+    padding: 10px;
+
+    background-color: blue;
+    color: beige;
+    border: none;
+    border-radius: 4px;
+
+    cursor: pointer;
+}
